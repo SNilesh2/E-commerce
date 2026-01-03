@@ -1,0 +1,8 @@
+{
+  "name": "OmniShop E-Commerce",
+  "description": "A comprehensive full-stack e-commerce platform with AI-powered features, administrative dashboard, and seamless shopping experience.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
